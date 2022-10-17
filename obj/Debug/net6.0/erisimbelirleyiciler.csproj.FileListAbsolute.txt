@@ -1,0 +1,15 @@
+C:\Users\Burak\Documents\GitHub\erisimbelirleyiciler\obj\Debug\net6.0\erisimbelirleyiciler.csproj.AssemblyReference.cache
+C:\Users\Burak\Documents\GitHub\erisimbelirleyiciler\obj\Debug\net6.0\erisimbelirleyiciler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\Documents\GitHub\erisimbelirleyiciler\obj\Debug\net6.0\erisimbelirleyiciler.AssemblyInfoInputs.cache
+C:\Users\Burak\Documents\GitHub\erisimbelirleyiciler\obj\Debug\net6.0\erisimbelirleyiciler.AssemblyInfo.cs
+C:\Users\Burak\Documents\GitHub\erisimbelirleyiciler\obj\Debug\net6.0\erisimbelirleyiciler.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Documents\GitHub\erisimbelirleyiciler\bin\Debug\net6.0\erisimbelirleyiciler.exe
+C:\Users\Burak\Documents\GitHub\erisimbelirleyiciler\bin\Debug\net6.0\erisimbelirleyiciler.deps.json
+C:\Users\Burak\Documents\GitHub\erisimbelirleyiciler\bin\Debug\net6.0\erisimbelirleyiciler.runtimeconfig.json
+C:\Users\Burak\Documents\GitHub\erisimbelirleyiciler\bin\Debug\net6.0\erisimbelirleyiciler.dll
+C:\Users\Burak\Documents\GitHub\erisimbelirleyiciler\bin\Debug\net6.0\erisimbelirleyiciler.pdb
+C:\Users\Burak\Documents\GitHub\erisimbelirleyiciler\obj\Debug\net6.0\erisimbelirleyiciler.dll
+C:\Users\Burak\Documents\GitHub\erisimbelirleyiciler\obj\Debug\net6.0\refint\erisimbelirleyiciler.dll
+C:\Users\Burak\Documents\GitHub\erisimbelirleyiciler\obj\Debug\net6.0\erisimbelirleyiciler.pdb
+C:\Users\Burak\Documents\GitHub\erisimbelirleyiciler\obj\Debug\net6.0\erisimbelirleyiciler.genruntimeconfig.cache
+C:\Users\Burak\Documents\GitHub\erisimbelirleyiciler\obj\Debug\net6.0\ref\erisimbelirleyiciler.dll
